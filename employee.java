@@ -4,5 +4,6 @@ public class Employee{
 
   private Long   eID;
   private String name;
+  private String dept;
   
 }
